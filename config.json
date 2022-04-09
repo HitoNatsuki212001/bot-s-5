@@ -2,8 +2,4 @@
 	"ip":"Zenosama2001.aternos.me",
 	"port": "34822",
 	"name": "afkbot5"
-        "auto-night-skip":"true"
-        "auto-kill-mob":"true"
-        "auto-mine":"true"
-        "auto-click":"true"
 }
