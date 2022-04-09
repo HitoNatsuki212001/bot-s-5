@@ -3,4 +3,5 @@
 	"port": "34829",
 	"name": "afkbot5"
         "auto-night-skip":"true"
+        "auto-kill-mob":"true"
 }
