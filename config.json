@@ -5,4 +5,5 @@
         "auto-night-skip":"true"
         "auto-kill-mob":"true"
         "auto-mine":"true"
+        "auto-click":"true"
 }
