@@ -2,14 +2,6 @@
 	"ip":"Zenosama21.aternos.me:14919",
 	"port": "14919",
 	"name": "afkbot5"
-        "utils": {
-          "auto-auth": {
-          "enabled": true,
-          "password": ""
-    },
-
-        "anti-afk": {
-          "enabled": true,
-          "sneak": true
+        
     }
 }
